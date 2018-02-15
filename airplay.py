@@ -50,7 +50,7 @@ class AirPlayPlugin (GObject.GObject, Peas.Activatable):
 		try:
 			self.construct()
 		except:
-			print >> sys.stderr, "Failed activating airplay"
+			print("Failed activating airplay", file=sys.stderr)
 			return
 		
 
