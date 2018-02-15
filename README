@@ -1,4 +1,4 @@
-Totem AirPlay Plugin
+Totem AirPlay Plugin with python3 support
 --------------------------------------------------------------------------------
 
 A FOSS Python PoC implementation of the server side AirPlay Protocol.
